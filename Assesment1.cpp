@@ -23,8 +23,8 @@ int main() {
     car c2;
 
     // Set properties for c1
-    c1.brand = "VW";
-    c1.model = "Polo Gt";
+    c1.brand = "Tesla";
+    c1.model = "M6";
     c1.year = 2019;
 
     // Set properties for c2
